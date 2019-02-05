@@ -2,7 +2,11 @@
 Flowmeter is a tool for deriving statistical features from PCAPs for data analysis and machine learning. The features are based on the java application <a href=http://netflow.ca/>Netflowmeter</a>.
 
 
-# Usage:
+# Installation
+```pip install flowmeter```
+
+
+# Usage
 A Flowmeter object is created by taking in a PCAP file as a parameter. Using the build_feature method, Flowmeter separates out the PCAP into distinct TCP and UDP flows. From there it begins analyzing the flow data to derive features useful for plotting, traffic pattern analysis, and machine learning.
 
 ```
