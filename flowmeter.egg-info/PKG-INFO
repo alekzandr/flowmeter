@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: flowmeter
+Version: 0.0.2
+Summary: A tool for deriving statistical features from pcap data.
+Home-page: https://github.com/alekzandr/flowmeter
+Author: Kyle Topasna
+Author-email: kyle.topasna@gmail.com
+License: UNKNOWN
+Description: # flowmeter
+        A tool for deriving statistical features from pcap data
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown

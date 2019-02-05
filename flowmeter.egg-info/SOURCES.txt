@@ -1,0 +1,8 @@
+README.md
+setup.py
+flowmeter/__init__.py
+flowmeter/flowmeter.py
+flowmeter.egg-info/PKG-INFO
+flowmeter.egg-info/SOURCES.txt
+flowmeter.egg-info/dependency_links.txt
+flowmeter.egg-info/top_level.txt

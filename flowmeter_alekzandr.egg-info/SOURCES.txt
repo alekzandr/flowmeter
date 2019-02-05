@@ -1,0 +1,8 @@
+README.md
+setup.py
+flowmeter/__init__.py
+flowmeter/flowmeter.py
+flowmeter_alekzandr.egg-info/PKG-INFO
+flowmeter_alekzandr.egg-info/SOURCES.txt
+flowmeter_alekzandr.egg-info/dependency_links.txt
+flowmeter_alekzandr.egg-info/top_level.txt
