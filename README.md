@@ -23,7 +23,7 @@ df.to_csv("1548216696.814641.csv")
 The current implementaion is inefficient at handling memory. We are currently beginning optimizations to reduce memory usage and provide a more stable process. Processing a large PCAP can be very MEMORY INTENSIVE.
 
 # Contributions
-If you would like to contribute, feel free to fork the repo, clone the project, submit pull requests, open issues, or request features/enhancements.
+If you would like to contribute feel free to fork the repo, clone the project, submit pull requests, open issues, or request features/enhancements.
 
 # License
 Flowmeter is currently licensed under the GNU GPLv2.
