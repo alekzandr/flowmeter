@@ -1,4 +1,4 @@
-# Flowmeter
+# Flowmeter v0.0.3
 Flowmeter is a Scapy-based tool for deriving statistical features from PCAPs for data analysis and machine learning. The features are based on the java application <a href=http://netflow.ca/>Netflowmeter</a>.
 
 
